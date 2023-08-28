@@ -9,7 +9,11 @@ const theme = {
         gray_link: '#8B96A5',
         light_gray: '#EFF2F4',
         border_gray: "#E3E8EE",
-        copy_right: "#606060"
+        copy_right: "#606060",
+        white: "#FFFFFF",
+
+
+
     }
 
 };

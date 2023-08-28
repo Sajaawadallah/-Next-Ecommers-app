@@ -17,3 +17,12 @@ font-weight: 500;
 line-height: 22px; 
 
 `
+
+
+export const H3 = styled.h3`
+font-size: 23px;
+font-style: normal;
+font-weight: 600;
+line-height: 28px; 
+
+`

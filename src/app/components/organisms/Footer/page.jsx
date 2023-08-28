@@ -1,10 +1,10 @@
-'use clint'
+
 import React from 'react'
 import Image from 'next/image'
 import NavColMenu from '../../molecules/NavColMenu/page'
 import SocilIcon from '../../molecules/SocielIcon/page'
 import { SupCol, ColordP, BottomFooter, CopyRight, LangSelectMenu } from './style'
-import { navlinks } from '../../constant/Footer'
+import { navlinks } from '../../../constant/Footer'
 import { Col, Container, Row } from '@/app/styles/globals'
 import { MdOutlineKeyboardArrowUp } from 'react-icons/md'
 

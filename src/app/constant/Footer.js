@@ -116,7 +116,7 @@ export const navlinks = [
                 linktext: <Image src="/appstore.png"
                     alt="app store"
                     width={123}
-                    height={50} />,
+                    height={47} />,
                 link: '#'
             },
             {
@@ -125,7 +125,7 @@ export const navlinks = [
                     src="/googleplay.png"
                     alt="googleplay"
                     width={123}
-                    height={50}
+                    height={47}
                 />,
                 link: '#'
             }
